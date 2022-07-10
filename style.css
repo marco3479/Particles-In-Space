@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #575757;
+  color: white;
+}
+
+#PS {
+  text-align: center;
+}
+
+#gridContainer {
+  display: grid;
+  flex-flow: column;
+  justify-content: center;
+}
